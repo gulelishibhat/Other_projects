@@ -17,8 +17,11 @@ There should be no necessary libraries to run the code here beyond the Anaconda 
 Project Motivation
 
 For this project, I was interestested in using Air BnB Seattle data of 2016.
+
 How the number of host listings vary with the price, with  months and host response time?
+
 How the number of listings vary with the host response rate?
+
 What is the factor playing role in delaying the respone of the host?
 
 
