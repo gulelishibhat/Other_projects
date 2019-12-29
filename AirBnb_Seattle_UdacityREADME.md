@@ -36,4 +36,4 @@ The main findings of the code can be found at the post available here.
 
 Licensing, Authors, Acknowledgements
 
-Must give credit to AirBnb for the data. The data is available in the kaggle. 
+Must give credit to AirBnb for the data. The data is available in the kaggle.
