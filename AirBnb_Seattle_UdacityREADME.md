@@ -27,7 +27,7 @@ What are the factors playing role in delaying the respone of the host?
 
 File Descriptions
 
-I have uploaded two files one wrangling the data and other one with the code.
+I have uploaded two files of code one of  Jupyter and other the .py.
 There is an additional .py file that runs the necessary code to obtain the final model used to predict host_response_time.
 
 Results
