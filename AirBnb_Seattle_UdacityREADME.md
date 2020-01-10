@@ -28,7 +28,7 @@ What are the factors playing role in delaying the respone by the host?
 
 File Descriptions
 
-I have uploaded the two files of code one Jupyter and another python .py file. 
+I have uploaded the one Jupyter file of code. 
 
 Results
 
